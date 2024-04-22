@@ -1,3 +1,3 @@
-I love Hexlet!
+git is awesome!
 new line
 Something important.
